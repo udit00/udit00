@@ -1,0 +1,22 @@
+#include<bits/stdc++.h>
+#define ll long long
+#define ld long double
+#define ull unsigned long long
+#define rep(i, n) for(int i=0; i<n; i++)
+#define frwd(k, n) for(int i=k; i<=n; i++)
+#define bkwd(n, k) for(int i=n; i>=k; i--)
+#define log(x) std::cout<<x<<std::endl
+#define logt(x, y) std::cout<<x<<std::endl<<y<<std::endl
+#define logws(x) std::cout<<x<<" "
+#define logwst(x, y) std::cout<<x<<" "<<y<<" "
+#define logwsVec(vec) for(auto const& x: vec){ logws(x); }
+#define debug(msg) std::cout<<msg<<std::endl
+#define debugws(msg) std::cout<<msg<<" "
+int main(void){
+    std::ios_base::sync_with_stdio(false);
+    int t = 0;
+    std::cin>>t;
+    while(t--){
+
+    }
+}
