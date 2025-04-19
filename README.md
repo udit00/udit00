@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @udit00
-- 👀 I work on Mobile Application, whether it be Ionic ( Hybrid ) & Android Native ( Kotlin & Java ).
-- 🌱 I’m currently learning Android.
-- 💞️ I’m looking to collaborate on any Android Native or Ionic Angular.
-- 📫 How to reach me " uditnair123@yahoo.com | uditnair90@gmail.com ".
-
-<!---
-udit00/udit00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @udit00  
+💻 Full Stack & Mobile Developer  
+📱 Android (Kotlin/Java), Flutter (Dart), Ionic (Capacitor/Cordova with Angular)  
+🌐 Node.js & Go-Lang backend dev | Hosted on my own VPS 
+🗄️ Databases: MSSQL, MySQL  
+🚀 Exploring Kotlin Multiplatform Mobile (KMM)  
+🤝 Let's collaborate on mobile or full-stack projects  
+📫 Contact: uditnair90@gmail.com | uditnair123@yahoo.com  
+🧠 Think. 💻 Code. 🫖 Chai. 🔁 Repeat.
